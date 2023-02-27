@@ -1,0 +1,47 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-align: certer;
+}
+body {
+background: #000;
+width: 100%;
+height: auto;
+padding: 0;
+font-family: 'Quicksand', sans-serif; 
+font-size: 100%;
+text-align: certer;
+}
+p {
+font-size:15px;
+color: #FFF;
+padding: 5px;
+}
+.container {
+position: relative;
+width: 100%;
+height: auto;
+padding: 0;
+margin: auto;
+display: ;
+flex-wrap: row;
+overflow: scroll;
+text-align: certer;
+}
+a {
+outline: none;
+text-decoration: none;
+cursor: none;
+}
+img {
+width: 29%;
+height: 68px;
+margin: 1.6%;
+padding: 0;
+border-radius: 10px;
+}
+img:hover {
+border: 2px solid lime;
+opacity: 2;
+}
