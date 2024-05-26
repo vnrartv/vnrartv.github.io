@@ -1,0 +1,57 @@
+[
+    {
+        "name": "VTV1",
+        "logo": "https://vnrartv.github.io/icon/vtv1.webp",
+        "url": "http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV2",
+        "logo": "https://vnrartv.github.io/icon/vtv2.webp",
+        "url": "http://171.238.180.25:18080/192_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV3",
+        "logo": "https://vnrartv.github.io/icon/vtv3.webp",
+        "url": "http://171.238.180.25:18080//155_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV4",
+        "logo": "https://vnrartv.github.io/icon/vtv4.webp",
+        "url": "http://s4.nihontv.net:21585/vtv4/index.m3u8"
+    },
+    {
+        "name": "VTV5",
+        "logo": "https://vnrartv.github.io/icon/vtv5.webp",
+        "url": "http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV5 Tây Nguyên",
+        "logo": "https://vnrartv.github.io/icon/vtv5tn.webp",
+        "url": "http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV5 Tây Nam Bộ",
+        "logo": "https://vnrartv.github.io/icon/vtv5tnb.webp",
+        "url": "http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV7",
+        "logo": "https://vnrartv.github.io/icon/vtv7.webp",
+        "url": "http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV8",
+        "logo": "https://vnrartv.github.io/icon/vtv8.webp",
+        "url": "http://clacialtv.com/vtvgo/36/index.m3u8"
+    },
+    {
+        "name": "VTV9",
+        "logo": "https://vnrartv.github.io/icon/vtv9.webp",
+        "url": "http://clacialtv.com/vtvgo/39/index.m3u8"
+    },
+    {
+        "name": "VTV Cần Thơ",
+        "logo": "https://vnrartv.github.io/icon/vtvct.webp",
+        "url": "http://clacialtv.com/vtvgo/6/index.m3u8"
+    }
+]
