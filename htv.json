@@ -1,0 +1,72 @@
+[
+    {
+        "name": "HTV1",
+        "logo": "https://vnrartv.github.io/icon/htv1.webp",
+        "url": "https://1011154949.vnns.net/htvc/htv1.720p.nimble.adm.tms/playlist.m3u8"
+    },
+    {
+        "name": "HTV2 Vie Vchannel",
+        "logo": "https://vnrartv.github.io/icon/htv2.webp",
+        "url": "http://203.162.123.188:8080/htv2/index.m3u8"
+    },
+    {
+        "name": "HTV3",
+        "logo": "https://vnrartv.github.io/icon/htv3.webp",
+        "url": "https://1011154949.vnns.net/htvc/htv3.720p.nimble.adm.tms/playlist.m3u8"
+    },
+    {
+        "name": "HTVKey",
+        "logo": "https://vnrartv.github.io/icon/htvkey.webp",
+        "url": "https://1011154949.vnns.net/htvc/htv4.720p.nimble.adm.tms/playlist.m3u8"
+    },
+    {
+        "name": "HTV7",
+        "logo": "https://vnrartv.github.io/icon/htv7.webp",
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"
+    },
+    {
+        "name": "HTV9",
+        "logo": "https://vnrartv.github.io/icon/htv9.webp",
+        "url": "http://203.162.123.188:8080/htv9/index.m3u8"
+    },
+    {
+        "name": "HTV Thể Thao",
+        "logo": "https://vnrartv.github.io/icon/htvtt.webp",
+        "url": "http://171.238.180.25:18080/304.m3u8"
+    },
+    {
+        "name": "HTVC Plus",
+        "logo": "https://vnrartv.github.io/icon/htvcplus.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://1011337676.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8"
+    },
+    {
+        "name": "HTVC Phim",
+        "logo": "https://vnrartv.github.io/icon/phim.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-phim-hd-2399.html"
+    },
+    {
+        "name": "HTVC Thuần Việt",
+        "logo": "https://vnrartv.github.io/icon/thuanviet.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-thuan-viet-2396.html"
+    },
+    {
+        "name": "HTV Gia Đình",
+        "logo": "https://vnrartv.github.io/icon/giadinh.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-gia-dinh-full-hd-1080-2394.html"
+    },
+    {
+        "name": "HTV Phụ Nữ",
+        "logo": "https://vnrartv.github.io/icon/phunu.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-phu-nu-full-hd-1080-2393.html"
+    },
+    {
+        "name": "HTV Du Lịch",
+        "logo": "https://vnrartv.github.io/icon/dulich.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-du-lich-va-cuoc-song-full-hd-1080-2328.html"
+    },
+    {
+        "name": "HTVC Ca Nhạc",
+        "logo": "https://vnrartv.github.io/icon/canhac.webp",
+        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-ca-nhac-full-hd-1080-2264.html"
+    }
+]
