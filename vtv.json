@@ -2,17 +2,17 @@
     {
         "name": "VTV1",
         "logo": "https://vnrartv.github.io/icon/vtv1.webp",
-        "url": "http://171.238.181.52:18080/154.m3u8"
+        "url": "http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS"
     },
     {
         "name": "VTV2",
         "logo": "https://vnrartv.github.io/icon/vtv2.webp",
-        "url": "http://171.238.180.25:18080/192.m3u8"
+        "url": "http://171.238.181.52:18080/192_2.m3u8?AdaptiveType=HLS"
     },
     {
         "name": "VTV3",
         "logo": "https://vnrartv.github.io/icon/vtv3.webp",
-        "url": "http://171.238.180.25:18080/155.m3u8"
+        "url": "http://171.238.181.52:18080/155_1.m3u8?AdaptiveType=HLS"
     },
     {
         "name": "VTV4",
@@ -22,17 +22,22 @@
     {
         "name": "VTV5",
         "logo": "https://vnrartv.github.io/icon/vtv5.webp",
-        "url": "http://171.238.181.52:18080/194.m3u8"
-    },
-    {
-        "name": "VTV5 Tây Nguyên",
-        "logo": "https://vnrartv.github.io/icon/vtv5tn.webp",
-        "url": "http://171.238.181.52:18080/308.m3u8"
+        "url": "https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8"
     },
     {
         "name": "VTV5 Tây Nam Bộ",
         "logo": "https://vnrartv.github.io/icon/vtv5tnb.webp",
-        "url": "http://171.238.181.52:18080/307.m3u8"
+        "url": "http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV5 Tây Nguyên",
+        "logo": "https://vnrartv.github.io/icon/vtv5tn.webp",
+        "url": "http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS"
+    },
+    {
+        "name": "VTV Cần Thơ",
+        "logo": "https://vnrartv.github.io/icon/vtvct.webp",
+        "url": "http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS"
     },
     {
         "name": "VTV7",
@@ -48,115 +53,7 @@
         "name": "VTV9",
         "logo": "https://vnrartv.github.io/icon/vtv9.webp",
         "url": "http://clacialtv.com/vtvgo/39/index.m3u8"
-    },
-    {
-        "name": "VTV Cần Thơ",
-        "logo": "https://vnrartv.github.io/icon/vtvct.webp",
-        "url": "http://171.238.181.52:18080/156.m3u8"
-    },
-    {
-        "name": "On Vie Giải Trí",
-        "logo": "https://vnrartv.github.io/icon/vtvcab1.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab1/index.m3u8"
-    },
-    {
-        "name": "On Phim Việt",
-        "logo": "https://vnrartv.github.io/icon/vtvcab2.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab2/index.m3u8"
-    },
-    {
-        "name": "On Sports",
-        "logo": "https://vnrartv.github.io/icon/vtvcab3.webp",
-        "url": ""
-    },
-    {
-        "name": "On Movies",
-        "logo": "https://vnrartv.github.io/icon/vtvcab4.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8"
-    },
-    {
-        "name": "On Echannel",
-        "logo": "https://vnrartv.github.io/icon/vtvcab5.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8"
-    },
-    {
-        "name": "On Sports Plus",
-        "logo": "https://vnrartv.github.io/icon/vtvcab6.webp",
-        "url": ""
-    },
-    {
-        "name": "On O2TV",
-        "logo": "https://vnrartv.github.io/icon/vtvcab7.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab7/index.m3u8"
-    },
-    {
-        "name": "On BiBi",
-        "logo": "https://vnrartv.github.io/icon/vtvcab8.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab8/index.m3u8"
-    },
-    {
-        "name": "On info TV",
-        "logo": "https://vnrartv.github.io/icon/vtvcab9.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab9/index.m3u8"
-    },
-    {
-        "name": "On Cine",
-        "logo": "https://vnrartv.github.io/icon/vtvcab10.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab10/index.m3u8"
-    },
-    {
-        "name": "On Style TV",
-        "logo": "https://vnrartv.github.io/icon/vtvcab12.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab12/index.m3u8"
-    },
-    {
-        "name": "On Music",
-        "logo": "https://vnrartv.github.io/icon/vtvcab15.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab15/index.m3u8"
-    },
-    {
-        "name": "On Football",
-        "logo": "https://vnrartv.github.io/icon/vtvcab16.webp",
-        "url": ""
-    },
-    {
-        "name": "On Trending TV",
-        "logo": "https://vnrartv.github.io/icon/vtvcab17.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8"
-    },
-    {
-        "name": "On Sports News",
-        "logo": "https://vnrartv.github.io/icon/vtvcab18.webp",
-        "url": ""
-    },
-    {
-        "name": "On Vie Dramas",
-        "logo": "https://vnrartv.github.io/icon/vtvcab19.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8"
-    },
-    {
-        "name": "On Vfamily",
-        "logo": "https://vnrartv.github.io/icon/vtvcab20.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8"
-    },
-    {
-        "name": "On Kids",
-        "logo": "https://vnrartv.github.io/icon/vtvcab21.webp",
-        "url": ""
-    },
-    {
-        "name": "On Life",
-        "logo": "https://vnrartv.github.io/icon/vtvcab22.webp",
-        "url": ""
-    },
-    {
-        "name": "On Golf",
-        "logo": "https://vnrartv.github.io/icon/vtvcab23.webp",
-        "url": ""
-    },
-    {
-        "name": "On Action",
-        "logo": "https://vnrartv.github.io/icon/btv5.webp",
-        "url": "https://mobile-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.y9ecFw8WHT5YX6F7XVHaWdgtWppP0n5Tzy-vhtMF30zlgQWCEO1arHhf6hWcCcxvusQfXUwDE1nWLFpPFp1Fpg"
     }
-]
+
+    
+]    
