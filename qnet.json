@@ -1,40 +1,4 @@
-[
-
-    {
-        "name": "Cinemax",
-        "logo": "https://vnrartv.github.io/icon/cinemaxeng.webp",
-        "url": "http://170.254.18.106/CINEMAX/index.m3u8"
-    },
-    {
-        "name": "HBO",
-        "logo": "https://vnrartv.github.io/icon/hbo.webp",
-        "url": "http://s4.nihontv.net:21585/hbo/index.m3u8"
-    },
-    {
-        "name": "HBO2",
-        "logo": "https://vnrartv.github.io/icon/hbo2.webp",
-        "url": "http://170.254.18.106/HBO2/index.m3u8"
-    },
-    {
-        "name": "HBO Hits",
-        "logo": "https://vnrartv.github.io/icon/hbohits.webp",
-        "url": "https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8"
-    },
-    {
-        "name": "HBO Xtreme",
-        "logo": "https://vnrartv.github.io/icon/hboxtreme.webp",
-        "url": "http://170.254.18.106/HBO_XTREME/index.m3u8"
-    },
-    {
-        "name": "HBO Signature ",
-        "logo": "https://vnrartv.github.io/icon/hbosignature.webp",
-        "url": "http://170.254.18.106/HBO_SIG/index.m3u8"
-    },
-    {
-        "name": "HBO Family",
-        "logo": "https://vnrartv.github.io/icon/hbofamily.webp",
-        "url": "http://170.254.18.106/HBO_FAMILY/index.m3u8"
-    },
+,
     {
         "name": "Warner TV",
         "logo": "https://vnrartv.github.io/icon/wbtv.webp",

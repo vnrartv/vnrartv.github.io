@@ -1,0 +1,33 @@
+[
+{
+    "name": "VOV TV",
+    "logo": "https://vnrartv.github.io/icon/vov.webp",
+    "url": "https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8"
+},
+{
+    "name": "Vnews",
+    "logo": "https://vnrartv.github.io/icon/vnews.webp",
+    "url": "https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8"
+},
+{
+    "name": "An Ninh TV",
+    "logo": "https://vnrartv.github.io/icon/antv.webp",
+    "url": "https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8"
+},
+{
+    "name": "Quốc Phòng",
+    "logo": "https://vnrartv.github.io/icon/qpvn.webp",
+    "url": "https://playlive.qpvn.vn/live/qpvn.m3u8"
+},
+{
+    "name": "Nhân Dân TV",
+    "logo": "https://vnrartv.github.io/icon/nhandan.webp",
+    "url": "https://arpt.tvic.vn/live/nhandan720/playlist.m3u8"
+},
+{
+    "name": "Quốc Hội",
+    "logo": "https://vnrartv.github.io/icon/qhvn.webp",
+    "url": "https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8"
+}
+
+]
