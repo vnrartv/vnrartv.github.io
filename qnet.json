@@ -1,4 +1,30 @@
-,
+[
+
+    {
+        "name": "Cinemax",
+        "logo": "https://vnrartv.github.io/icon/cinemaxeng.webp",
+        "url": "https://histar.zapi.us.kg/?id=cinemax"
+    },
+    {
+        "name": "HBO",
+        "logo": "https://vnrartv.github.io/icon/hbo.webp",
+        "url": "http://s4.nihontv.net:21585/hbo/index.m3u8"
+    },
+    {
+        "name": "HBO Hits",
+        "logo": "https://vnrartv.github.io/icon/hbohits.webp",
+        "url": "https://histar.zapi.us.kg/?id=now-hbo-hits"
+    },
+    {
+        "name": "HBO Signature ",
+        "logo": "https://vnrartv.github.io/icon/hbosignature.webp",
+        "url": "https://histar.zapi.us.kg/?id=now-hbo-signature"
+    },
+    {
+        "name": "HBO Family",
+        "logo": "https://vnrartv.github.io/icon/hbofamily.webp",
+        "url": "https://histar.zapi.us.kg/?id=hbo-family"
+    },
     {
         "name": "Warner TV",
         "logo": "https://vnrartv.github.io/icon/wbtv.webp",
