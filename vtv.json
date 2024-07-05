@@ -1,38 +1,39 @@
 [
+    
     {
         "name": "VTV1",
         "logo": "https://vnrartv.github.io/icon/vtv1.webp",
-        "url": "http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8"
     },
     {
         "name": "VTV2",
         "logo": "https://vnrartv.github.io/icon/vtv2.webp",
-        "url": "http://171.238.181.52:18080/192_2.m3u8?AdaptiveType=HLS"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8"
     },
     {
         "name": "VTV3",
         "logo": "https://vnrartv.github.io/icon/vtv3.webp",
-        "url": "http://171.238.181.52:18080/155_1.m3u8?AdaptiveType=HLS"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8"
     },
     {
         "name": "VTV4",
         "logo": "https://vnrartv.github.io/icon/vtv4.webp",
-        "url": "http://sv.tvmienphi.xyz/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8"
     },
     {
         "name": "VTV5",
         "logo": "https://vnrartv.github.io/icon/vtv5.webp",
-        "url": "https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8"
+        "url": "https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8"
     },
     {
         "name": "VTV5 Tây Nam Bộ",
         "logo": "https://vnrartv.github.io/icon/vtv5tnb.webp",
-        "url": "http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS"
+        "url": "https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/index.m3u8"
     },
     {
         "name": "VTV5 Tây Nguyên",
         "logo": "https://vnrartv.github.io/icon/vtv5tn.webp",
-        "url": "http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS"
+        "url": "https://wintv.fun/360/207/index.m3u8"
     },
     {
         "name": "VTV Cần Thơ",
@@ -42,18 +43,17 @@
     {
         "name": "VTV7",
         "logo": "https://vnrartv.github.io/icon/vtv7.webp",
-        "url": "http://sv.tvmienphi.xyz/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8"
     },
     {
         "name": "VTV8",
         "logo": "https://vnrartv.github.io/icon/vtv8.webp",
-        "url": "http://sv.tvmienphi.xyz/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8"
     },
     {
         "name": "VTV9",
         "logo": "https://vnrartv.github.io/icon/vtv9.webp",
-        "url": "http://sv.tvmienphi.xyz/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8"
+        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8"
     }
-
     
 ]    

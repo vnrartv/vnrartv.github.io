@@ -1,121 +1,122 @@
 [
+    
     {
         "name": "SCTV1",
         "logo": "https://vnrartv.github.io/icon/sctv1.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8"
     },
     {
         "name": "SCTV2",
         "logo": "https://vnrartv.github.io/icon/sctv2.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8"
     },
     {
         "name": "SCTV3 SeeTV",
         "logo": "https://vnrartv.github.io/icon/sctv3.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8"
     },
     {
         "name": "SCTV4",
         "logo": "https://vnrartv.github.io/icon/sctv4.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8"
     },
     {
         "name": "SCTV5 SCJ shopping",
         "logo": "https://vnrartv.github.io/icon/sctv5.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8"
     },
     {
         "name": "SCTV6",
         "logo": "https://vnrartv.github.io/icon/sctv6.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8"
     },
     {
         "name": "SCTV7",
         "logo": "https://vnrartv.github.io/icon/sctv7.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8"
     },
     {
         "name": "SCTV8 ViTV",
         "logo": "https://vnrartv.github.io/icon/sctv8.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8"
     },
     {
         "name": "SCTV9 Phim TVB",
         "logo": "https://vnrartv.github.io/icon/sctv9.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8"
     },
     {
         "name": "SCTV10 VTVhuyndai",
         "logo": "https://vnrartv.github.io/icon/sctv10.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8"
     },
     {
         "name": "SCTV11",
         "logo": "https://vnrartv.github.io/icon/sctv11.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8"
     },
     {
         "name": "SCTV12",
         "logo": "https://vnrartv.github.io/icon/sctv12.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8"
     },
     {
         "name": "SCTV13",
         "logo": "https://vnrartv.github.io/icon/sctv13.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8"
     },
     {
         "name": "SCTV14 Kênh Phim Việt",
         "logo": "https://vnrartv.github.io/icon/sctv14.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8"
     },
     {
         "name": "SCTV15 Ssports 2",
         "logo": "https://vnrartv.github.io/icon/sctv15.webp",
-        "url": "https://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8"
+        "url": "https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8"
     },
     {
         "name": "SCTV16 Phim Nước Ngoài Đặc Sắc",
         "logo": "https://vnrartv.github.io/icon/sctv16.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8"
     },
     {
         "name": "SCTV17 Ssports",
         "logo": "https://vnrartv.github.io/icon/sctv17.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8"
     },
     {
         "name": "SCTV18",
         "logo": "https://vnrartv.github.io/icon/sctv18.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8"
     },
     {
         "name": "SCTV19 Tchannel",
         "logo": "https://vnrartv.github.io/icon/sctv19.webp",
-        "url": "https://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8"
+        "url": "https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8"
     },
     {
         "name": "SCTV20",
         "logo": "https://vnrartv.github.io/icon/sctv19.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8"
         
     },
     {
         "name": "SCTV21",
         "logo": "https://vnrartv.github.io/icon/sctv21.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8"
         
     },
     {
         "name": "SCTV22 Ssprts 1",
         "logo": "https://vnrartv.github.io/icon/sctv22.webp",
-        "url": "http://sv.tvmienphi.live/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8"
+        "url": "http://sv.tvmienphi.xyz/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8"
         
     },
     {
         "name": "SCTV Phim Tổng Hợp",
         "logo": "https://vnrartv.github.io/icon/sctvpth.webp",
-        "url": "https://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8"
+        "url": "https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8"
     }
     
 ]    
