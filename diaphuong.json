@@ -1,6 +1,4 @@
 [
-
-
 {
     "name": "Vĩnh Long 1",
     "logo": "https://vnrartv.github.io/icon/thvl1.webp",
@@ -355,13 +353,13 @@
     },
     {
         "name": "Kiên Giang 1",
-        "logo": "https://vnrartv.github.io/icon/kiengiang1.webp",
+        "logo": "https://vnrartv.github.io/icon/kg1.webp",
         "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
         
     },
     {
         "name": "Kiên Giang",
-        "logo": "https://vnrartv.github.io/icon/kiengiang.webp",
+        "logo": "https://vnrartv.github.io/icon/kg.webp",
         "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
         
     },
@@ -399,7 +397,6 @@
         "name": "Trà Vinh 2",
         "logo": "https://vnrartv.github.io/icon/travinh2.webp",
         "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8"
-        
+
     }
-    
 ]
