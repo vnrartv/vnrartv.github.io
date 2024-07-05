@@ -1,9 +1,8 @@
 [
-    
     {
         "name": "HTV1",
         "logo": "https://vnrartv.github.io/icon/htv1.webp",
-        "url": "https://1011154949.vnns.net/htvc/htv1.720p.nimble.adm.tms/playlist.m3u8"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631"
     },
     {
         "name": "HTV2 Vie Vchannel",
@@ -33,7 +32,6 @@
     {
         "name": "HTV Thể Thao",
         "logo": "https://vnrartv.github.io/icon/htvtt.webp",
-        "url": "http://171.238.180.25:18080/304.m3u8"
+        "url": "https://tth.vn/HTVC-THE-THAO"
     }
-    
-]    
+]
