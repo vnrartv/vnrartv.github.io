@@ -2,22 +2,22 @@
 {
     "name": "Vĩnh Long 1",
     "logo": "https://vnrartv.github.io/icon/thvl1.webp",
-    "url": "http://clacialtv.com/thvl.php?id=thvl1"
+    "url": "https://wintv.fun/360/25/index.m3u8"
 },
 {
     "name": "Vĩnh Long 2",
     "logo": "https://vnrartv.github.io/icon/thvl2.webp",
-    "url": "http://clacialtv.com/thvl.php?id=thvl2"
+    "url": "https://wintv.fun/360/26/index.m3u8"
 },
 {
     "name": "Vĩnh Long 3",
     "logo": "https://vnrartv.github.io/icon/thvl3.webp",
-    "url": "http://clacialtv.com/thvl.php?id=thvl3"
+    "url": "https://wintv.fun/360/219/index.m3u8"
 },
 {
     "name": "Vĩnh Long 4",
     "logo": "https://vnrartv.github.io/icon/thvl4.webp",
-    "url": "http://clacialtv.com/thvl.php?id=thvl4"
+    "url": "https://wintv.fun/360/220/index.m3u8"
 },
 {
     "name": "Hòa Bình",
@@ -42,7 +42,7 @@
 {
     "name": "Lào Cai",
     "logo": "https://vnrartv.github.io/icon/laocai.webp",
-    "url": ""
+    "url": "https://wintv.fun/360/71/index.m3u8"
 },
 {
     "name": "Yên Bái",
@@ -147,7 +147,7 @@
     {
         "name": "Nam Định",
         "logo": "https://vnrartv.github.io/icon/namdinh.webp",
-        "url": ""
+        "url": "https://wintv.fun/360/73/index.m3u8"
     },
     {
         "name": "Thái Bình",

@@ -2,27 +2,27 @@
     {
         "name": "HTVC Plus",
         "logo": "https://vnrartv.github.io/icon/htvcplus.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://1011337676.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8"
+        "url": "https://wintv.fun/360/132/index.m3u8"
     },
     {
         "name": "HTVC Phim",
         "logo": "https://vnrartv.github.io/icon/phim.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-phim-hd-2399.html"
+        "url": "https://wintv.fun/360/15/index.m3u8"
     },
     {
         "name": "HTVC Thuần Việt",
         "logo": "https://vnrartv.github.io/icon/thuanviet.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-thuan-viet-2396.html"
+        "url": "https://wintv.fun/360/13/index.m3u8"
     },
     {
         "name": "HTV Gia Đình",
         "logo": "https://vnrartv.github.io/icon/giadinh.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-gia-dinh-full-hd-1080-2394.html"
+        "url": "https://wintv.fun/360/11/index.m3u8"
     },
     {
         "name": "HTV Phụ Nữ",
         "logo": "https://vnrartv.github.io/icon/phunu.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-phu-nu-full-hd-1080-2393.html"
+        "url": "https://wintv.fun/360/12/index.m3u8"
     },
     {
         "name": "HTV Du Lịch",
@@ -32,6 +32,6 @@
     {
         "name": "HTVC Ca Nhạc",
         "logo": "https://vnrartv.github.io/icon/canhac.webp",
-        "url": "http://clacialtv.com/hplus.php?id=https://hplus.com.vn/xem-kenh-htvc-ca-nhac-full-hd-1080-2264.html"
+        "url": "https://wintv.fun/360/14/index.m3u8"
     }
 ]

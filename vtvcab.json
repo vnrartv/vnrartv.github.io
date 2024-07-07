@@ -88,21 +88,17 @@
     {
         "name": "On Kids",
         "logo": "https://vnrartv.github.io/icon/vtvcab21.webp",
-        "url": ""
+        "url": "https://wintv.fun/360/179/index.m3u8"
     },
     {
         "name": "On Life",
         "logo": "https://vnrartv.github.io/icon/vtvcab22.webp",
-        "url": ""
+        "url": "https://wintv.fun/360/188/index.m3u8"
     },
     {
         "name": "On Golf",
         "logo": "https://vnrartv.github.io/icon/vtvcab23.webp",
-        "url": ""
-    },
-    {
-        "name": "On Action",
-        "logo": "https://vnrartv.github.io/icon/btv5.webp",
-        "url": "https://mobile-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.y9ecFw8WHT5YX6F7XVHaWdgtWppP0n5Tzy-vhtMF30zlgQWCEO1arHhf6hWcCcxvusQfXUwDE1nWLFpPFp1Fpg"
+        "url": "https://wintv.fun/360/169/index.m3u8"
     }
+
 ]
