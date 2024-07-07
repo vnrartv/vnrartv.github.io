@@ -7,17 +7,17 @@
     {
         "name": "VTC2",
         "logo": "https://vnrartv.github.io/icon/vtc2.webp",
-        "url": "https://cdn2.tvmienphi.live:8444/vtc/https/1236573804.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhMTI5YjZiLWNjMzUtNGMyNC04ZTZmLTAzMzEzYTRiMzg2NCIsImV4cCI6MTcxNzkzMzgwOSwidXJpIjoiL2xpdmV2dGNub3cvVlRDMiIsImlhdCI6MTcxNzkxMjIwOX0.ZF0610n6aPNY9uDdzPkqVxWNV0l6xtTloh80P4uILoA-/livevtcnow/VTC2/playlist.m3u8?token="
+        "url": "https://wintv.fun/360/196/index.m3u8"
     },
     {
         "name": "VTC3",
         "logo": "https://vnrartv.github.io/icon/vtc3.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC3/playlist.m3u8"
+        "url": "https://wintv.fun/360/197/index.m3u8"
     },
     {
         "name": "VTC4",
         "logo": "https://vnrartv.github.io/icon/vtc4.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC4/playlist.m3u8"
+        "url": "https://wintv.fun/360/198/index.m3u8"
     },
     {
         "name": "VTC5",
@@ -27,7 +27,7 @@
     {
         "name": "VTC6",
         "logo": "https://vnrartv.github.io/icon/vtc6.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC6/playlist.m3u8"
+        "url": "https://wintv.fun/360/200/index.m3u8"
     },
     {
         "name": "VTC7",
@@ -37,7 +37,7 @@
     {
         "name": "VTC8",
         "logo": "https://vnrartv.github.io/icon/vtc8.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC8/playlist.m3u8"
+        "url": "https://wintv.fun/360/202/index.m3u8"
     },
     {
         "name": "VTC9",
@@ -47,32 +47,22 @@
     {
         "name": "VTC10",
         "logo": "https://vnrartv.github.io/icon/vtc10.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC10/playlist.m3u8"
+        "url": "https://wintv.fun/360/204/index.m3u8"
     },
     {
         "name": "VTC11",
         "logo": "https://vnrartv.github.io/icon/vtc11.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC11/playlist.m3u8"
-    },
-    {
-        "name": "VTC12",
-        "logo": "https://vnrartv.github.io/icon/vtc12.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC12/playlist.m3u8"
-    },
-    {
-        "name": "VTC13",
-        "logo": "https://vnrartv.github.io/icon/vtc13.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC13/playlist.m3u8"
+        "url": "https://wintv.fun/360/205/index.m3u8"
     },
     {
         "name": "VTC14",
         "logo": "https://vnrartv.github.io/icon/vtc14.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC14/playlist.m3u8"
+        "url": "https://wintv.fun/360/17/index.m3u8"
     },
     {
         "name": "VTC16",
         "logo": "https://vnrartv.github.io/icon/vtc16.webp",
-        "url": "https://1236573804.pop.vnptcdn.com/livevtcnow/VTC16/playlist.m3u8"
+        "url": "https://wintv.fun/360/18/index.m3u8"
     }
     
 ]
