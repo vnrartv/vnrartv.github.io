@@ -18,7 +18,7 @@ a.setAttribute("id","GTVideo")
 
 a.innerHTML="Go to the Video";
 a.addEventListener("click",()=>{
-window.location.href="https://m.youtube.com/watch?v="+queue[songIndex];
+window.location.href="https://m.youtube.com/embed/"+queue[songIndex];
 })
 
 document.body.appendChild(a);
