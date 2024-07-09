@@ -1,6 +1,6 @@
 /*Again a few inits */
 window.queue=[];
-window.isPlayingAud=false;
+window.isPlayingAud=true;
 window.songIndex=0;
 
 
@@ -146,8 +146,8 @@ var iconBase64="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8A
 var canvas = document.createElement('canvas');
 var context = canvas.getContext('2d');
 
-canvas.width = 160;
-canvas.height  = 90;
+canvas.width = 170;
+canvas.height  = 100;
 
 //var z=performance.now();
 
@@ -311,8 +311,8 @@ background-size:cover;
 background-repeat:no-repeat;
 }
 #ytproAudDiv #ib{
-height:170px;
-width:170px;
+height:150px;
+width:150px;
 position:absolute;
 z-index:-1;
 top:2px;
