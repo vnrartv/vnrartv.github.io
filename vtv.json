@@ -3,7 +3,7 @@
     {
         "name": "VTV1",
         "logo": "https://vnrartv.github.io/icon/vtv1.webp",
-        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8"
+        "url": "https://wintv.fun/360/2/index.m3u8"
     },
     {
         "name": "VTV2",
@@ -13,12 +13,12 @@
     {
         "name": "VTV3",
         "logo": "https://vnrartv.github.io/icon/vtv3.webp",
-        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8"
+        "url": "https://wintv.fun/360/4/index.m3u8"
     },
     {
         "name": "VTV4",
         "logo": "https://vnrartv.github.io/icon/vtv4.webp",
-        "url": "https://cdn1.tvmienphi.xyz:8444/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8"
+        "url": "https://wintv.fun/360/108/index.m3u8"
     },
     {
         "name": "VTV5",

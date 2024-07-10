@@ -30,7 +30,7 @@
         "url": "https://wintv.fun/360/200/index.m3u8"
     },
     {
-        "name": "VTC7 Today TV",
+        "name": "VTC7",
         "logo": "https://vnrartv.github.io/icon/vtc7.webp",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/todaytv/index.m3u8"
     },
@@ -64,4 +64,5 @@
         "logo": "https://vnrartv.github.io/icon/vtc16.webp",
         "url": "https://wintv.fun/360/18/index.m3u8"
     }
-]    
+    
+]

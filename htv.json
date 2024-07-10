@@ -10,7 +10,7 @@
         
         "name": "HTV2 Vie Vchannel",
         "logo": "https://vnrartv.github.io/icon/htv2.webp",
-        "url": "http://203.162.123.188:8080/htv2/index.m3u8"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2699"
     },
     {
         
@@ -20,7 +20,7 @@
     },
     {
         
-        "name": "HTVKey",
+        "name": "HTV Key",
         "logo": "https://vnrartv.github.io/icon/htvkey.webp",
         "url": "https://vc.101vn.com/htv/htvcmb.php?id=2528"
     },
@@ -34,13 +34,13 @@
         
         "name": "HTV9",
         "logo": "https://vnrartv.github.io/icon/htv9.webp",
-        "url": "http://203.162.123.188:8080/htv9/index.m3u8"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2667"
     },
     {
         
         "name": "HTV Thể Thao",
         "logo": "https://vnrartv.github.io/icon/htvtt.webp",
-        "url": "https://tth.vn/HTVC-THE-THAO"
+        "url": "https://wintv.fun/360/195/index.m3u8"
     }
     
 ]
