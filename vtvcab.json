@@ -1,9 +1,39 @@
 [
 
     {
+        "name": "On Football",
+        "logo": "https://vnrartv.github.io/icon/vtvcab16.webp",
+        "url": "https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/index.m3u8"
+    },
+    {
+        "name": "On Sports",
+        "logo": "https://vnrartv.github.io/icon/vtvcab3.webp",
+        "url": "http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/23.m3u8"
+    },
+    {
+        "name": "On Sports News",
+        "logo": "https://vnrartv.github.io/icon/vtvcab18.webp",
+        "url": "http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/25.m3u8"
+    },
+    {
+        "name": "On Sports Plus",
+        "logo": "https://vnrartv.github.io/icon/vtvcab6.webp",
+        "url": "http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/24.m3u8"
+    },
+    {
+        "name": "On Golf",
+        "logo": "https://vnrartv.github.io/icon/vtvcab23.webp",
+        "url": "https://wintv.fun/360/169/index.m3u8"
+    },
+    {
         "name": "On Vie Giải Trí",
         "logo": "https://vnrartv.github.io/icon/vtvcab1.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab1/index.m3u8"
+        "url": "https://wintv.fun/360/180/index.m3u8"
+    },
+    {
+        "name": "On Vie Dramas",
+        "logo": "https://vnrartv.github.io/icon/vtvcab19.webp",
+        "url": "https://wintv.fun/360/177/index.m3u8"
     },
     {
         "name": "On Phim Việt",
@@ -11,14 +41,14 @@
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab2/index.m3u8"
     },
     {
-        "name": "On Sports",
-        "logo": "https://vnrartv.github.io/icon/vtvcab3.webp",
-        "url": ""
-    },
-    {
         "name": "On Movies",
         "logo": "https://vnrartv.github.io/icon/vtvcab4.webp",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8"
+    },
+    {
+        "name": "On Cine",
+        "logo": "https://vnrartv.github.io/icon/vtvcab10.webp",
+        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab10/index.m3u8"
     },
     {
         "name": "On Echannel",
@@ -26,29 +56,14 @@
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8"
     },
     {
-        "name": "On Sports Plus",
-        "logo": "https://vnrartv.github.io/icon/vtvcab6.webp",
-        "url": ""
-    },
-    {
         "name": "On O2TV",
         "logo": "https://vnrartv.github.io/icon/vtvcab7.webp",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab7/index.m3u8"
     },
     {
-        "name": "On BiBi",
-        "logo": "https://vnrartv.github.io/icon/vtvcab8.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab8/index.m3u8"
-    },
-    {
         "name": "On info TV",
         "logo": "https://vnrartv.github.io/icon/vtvcab9.webp",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab9/index.m3u8"
-    },
-    {
-        "name": "On Cine",
-        "logo": "https://vnrartv.github.io/icon/vtvcab10.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab10/index.m3u8"
     },
     {
         "name": "On Style TV",
@@ -61,24 +76,9 @@
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab15/index.m3u8"
     },
     {
-        "name": "On Football",
-        "logo": "https://vnrartv.github.io/icon/vtvcab16.webp",
-        "url": "https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/index.m3u8"
-    },
-    {
         "name": "On Trending TV",
         "logo": "https://vnrartv.github.io/icon/vtvcab17.webp",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8"
-    },
-    {
-        "name": "On Sports News",
-        "logo": "https://vnrartv.github.io/icon/vtvcab18.webp",
-        "url": ""
-    },
-    {
-        "name": "On Vie Dramas",
-        "logo": "https://vnrartv.github.io/icon/vtvcab19.webp",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8"
     },
     {
         "name": "On Vfamily",
@@ -86,19 +86,19 @@
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8"
     },
     {
-        "name": "On Kids",
-        "logo": "https://vnrartv.github.io/icon/vtvcab21.webp",
-        "url": "https://wintv.fun/360/179/index.m3u8"
-    },
-    {
         "name": "On Life",
         "logo": "https://vnrartv.github.io/icon/vtvcab22.webp",
         "url": "https://wintv.fun/360/188/index.m3u8"
     },
     {
-        "name": "On Golf",
-        "logo": "https://vnrartv.github.io/icon/vtvcab23.webp",
-        "url": "https://wintv.fun/360/169/index.m3u8"
+        "name": "On Kids",
+        "logo": "https://vnrartv.github.io/icon/vtvcab21.webp",
+        "url": "https://wintv.fun/360/179/index.m3u8"
+    },
+    {
+        "name": "On BiBi",
+        "logo": "https://vnrartv.github.io/icon/vtvcab8.webp",
+        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab8/index.m3u8"
     }
 
 ]
