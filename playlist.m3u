@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="VTV1" tvg-name="VTV1" tvg-logo="https://vnrartv.github.io/vtv/vtv1.webp",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV2" tvg-name="VTV2" tvg-logo="https://vnrartv.github.io/vtv/vtv2.webp",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV3" tvg-name="VTV3" tvg-logo="https://vnrartv.github.io/vtv/vtv3.webp",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV4" tvg-name="VTV4" tvg-logo="https://vnrartv.github.io/vtv/vtv4.webp",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-logo="https://vnrartv.github.io/vtv/vtv5.webp",VTV5
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV5 Tây nguyên" tvg-name="VTV5 Tây nguyên" tvg-logo="https://vnrartv.github.io/vtv/vtv5tn.webp",VTV5 Tây nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV5 Tây nam bộ" tvg-name="VTV5 Tây nam bộ" tvg-logo="https://vnrartv.github.io/vtv/vtv5tnb.webp",VTV5 Tây nam bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV Cần thơ" tvg-name="VTV Cần thơ" tvg-logo="https://vnrartv.github.io/vtv/vtvct.webp",VTV Cần thơ
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV7" tvg-name="VTV7" tvg-logo="https://vnrartv.github.io/vtv/vtv7.webp",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV8" tvg-name="VTV8" tvg-logo="https://vnrartv.github.io/vtv/vtv8.webp",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://vnrartv.github.io/vtv/vtv9.webp",VTV9
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
