@@ -32,3 +32,6 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-logo="https://vnrartv.github.io/vtv/vtv9.webp",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Bắc Kạn" tvg-name="Bắc Kạn" tvg-logo="https://vnrartv.github.io/diaphuong/backan.webp",Bắc Kạn
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
