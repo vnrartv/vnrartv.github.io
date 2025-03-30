@@ -1,0 +1,70 @@
+{
+  "channels": [
+    {
+      "name": "VTV1",
+      "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv1.webp",
+      "number": 1
+    },
+    {
+      "name": "VTV2",
+      "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv2.webp",
+      "number": 2
+    },
+    {
+      "name": "VTV3",
+      "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv3.webp",
+      "number": 3
+    },
+    {
+      "name": "VTV4",
+      "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv4.webp",
+      "number": 4
+    },
+    {
+      "name": "VTV5",
+      "url": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv5.webp",
+      "number": 5
+    },
+    {
+      "name": "VTV5 Tây nguyên",
+      "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv5tn.webp",
+      "number": 6
+    },
+    {
+      "name": "VTV5 Tây nam bộ",
+      "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv5tnb.webp",
+      "number": 7
+    },
+    {
+      "name": "VTV Cần thơ",
+      "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtvct.webp",
+      "number": 8
+    },
+    {
+      "name": "VTV7",
+      "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv7.webp",
+      "number": 9
+    },
+    {
+      "name": "VTV8",
+      "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv8.webp",
+      "number": 10
+    },
+    {
+      "name": "VTV9",
+      "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8",
+      "logo": "https://vnrartv.github.io/vtv/vtv9.webp",
+      "number": 11
+    }
+  ]
+}
