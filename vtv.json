@@ -1,0 +1,25 @@
+[
+  {
+    "number": "001",
+    "name": "VTV1",
+    "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
+    "logo": "https://vnrartv.github.io/vtv/vtv1.webp"
+  },
+  {
+    "number": "002",
+    "name": "VTV2",
+    "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
+    "logo": "https://vnrartv.github.io/vtv/vtv2.webp"
+  },
+  {
+    "number": "003",
+    "name": "VTV3",
+    "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
+    "logo": "https://vnrartv.github.io/vtv/vtv3.webp"
+  {
+    "number": "004",
+    "name": "VTV4",
+    "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
+    "logo": "https://vnrartv.github.io/vtv/vtv4.webp"
+  }
+]
